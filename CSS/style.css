@@ -1,0 +1,144 @@
+*{
+    margin:0;
+    padding:0;
+}
+.navbar {
+    padding: 2% 7%;
+    width:1920 px;
+    height:75px;
+    margin:auto;
+}
+
+.line {
+    border-bottom:1px solid;
+    color: #C8B6A3;
+    display:block;
+    padding-top:60px;
+}
+
+.logo {
+    color: #454343;
+    font-family: montserrat,open sans, sans-serif;
+    font-size: 28px;
+    padding-left:20px;
+    float:left;
+    padding-top:10px;
+  
+}
+.menu {
+    width:400px;
+    float:right;
+    height:70px;
+}
+ul{
+    float:right;
+    display: flex;
+}
+
+ul li {
+    list-style:none;
+    margin-left:62px;
+    font-size:28px;
+    padding-right:20px;
+    float:right;
+    padding-top:10px;
+
+}
+ul li a {
+    text-decoration: none;
+    color: #454343;
+    font-family: montserrat,open sans, sans-serif;
+    transition: 0.4s ease-in-out;
+}
+
+ul li a:hover {
+    color: #B63434;
+}
+.content {
+    width: 1920;
+    Height: auto;
+    margin:auto;
+    Color:000000;
+    position: relative;
+}
+
+.content h1 {
+    font-family: montserrat,open sans, sans-serif;
+    font-size:48px;
+    padding-left:19px;
+    margin-top:6%;
+    letter-spacing:2px;
+}
+.image {
+    padding-left:16px;
+    padding-bottom:25px;
+    display: flex;
+}
+.par {
+    padding-left:29px;
+    padding-bottom:25px;
+    font-size:32px;
+    font-family: montserrat,open sans, sans-serif;
+    letter-spacing:2px;
+    line-height:40px;
+}
+.chaks {
+padding-right:60px;
+position: absolute;
+top:-3px;
+left:1180px;
+padding-top:120px;
+padding-bottom:120px;
+}
+
+.content span {
+    color: #B63434;
+    font-size:128px;
+    font-weight: semibold;
+
+}
+
+.category {
+    font-family: montserrat,open sans, sans-serif;
+    font-size:30px;
+    padding-left:20px;
+    margin-top:6%;
+    letter-spacing:2px;
+    padding-bottom:60px;
+}
+.separator {
+    width: 1200px;
+}
+.left {
+    float: right;
+    padding-right: 20px;
+  }
+.text {
+    font-family: montserrat,open sans, sans-serif;
+    font-size:28px;
+    padding-left:20px;
+    padding-bottom:60px;
+}
+
+.separator2 {
+    width: 1200px;
+}
+.left {
+    float: right;
+    padding-right: 20px;
+  }
+
+.separator3 {
+    width: 1200px;
+}
+
+.text p {
+    font-size:28px;
+}
+
+.footer {
+    font-family: montserrat,open sans, sans-serif;
+    font-size:16px;
+    padding-left:20px;
+    padding-bottom:40px;
+}
